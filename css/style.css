@@ -3,3 +3,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.common-btn{
+    padding: 8px 40px;
+    border: none;
+    border-radius: 24px;
+    color: blue;
+}
+
+.border-for-wedding{
+    border-radius: 26px;
+}
